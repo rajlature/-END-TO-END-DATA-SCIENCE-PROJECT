@@ -41,3 +41,7 @@ Developers – Looking to build smarter apps with image understanding and AI.
 Startups – Needing a prototype for AI-powered visual systems.
 Conclusion:
 This project highlights how deep learning models can be effectively deployed and showcased using modern, lightweight web technologies. It combines machine learning, computer vision, and full-stack deployment — giving users a complete hands-on experience from model loading to real-world usage. With slight modifications, the system can be extended for webcam feeds, live video detection, database logging, or cloud deployment, making it highly scalable for real-time smart solutions.
+
+#output
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/6af5faae-dd7e-4b78-ac5a-09fd7902e5a7" />
